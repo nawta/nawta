@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-roan-iota.vercel.app/api?username=nawta5&count_private=true&show_icons=true&include_all_commits=true&theme=buefy" />
+  <img align="left" src="https://github-readme-stats-roan-iota.vercel.app/api?username=nawta5&show_icons=true&include_all_commits=true&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats-roan-iota.vercel.app/api/top-langs/?username=nawta&layout=compact&theme=buefy" />
