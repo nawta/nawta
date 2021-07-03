@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nawta&show_icons=true&count_private=true&include_all_commits=true&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawta&theme=buefy&exclude_repo=ProgrammingLectures" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawta&theme=buefy&exclude_repo=ProgrammingLectures,grbl" />
 </a>
 
