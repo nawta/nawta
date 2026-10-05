@@ -22,6 +22,6 @@ I mainly build
     <img height="160em" src="https://github-stats-extended-backend-one.vercel.app/api?username=nawta&show_icons=true&theme=buefy&hide_border=true" />
   </a>
   <a href="https://github.com/nawta?tab=repositories">
-    <img height="160em" src="https://github-stats-extended-backend-one.vercel.app/api/top-langs/?username=nawta&layout=compact&theme=buefy&hide_border=true&exclude_repo=ProgrammingLectures,grbl,BodyPrinter" />
+    <img height="160em" src="https://github-stats-extended-backend-one.vercel.app/api/top-langs/?username=nawta&layout=compact&theme=buefy&hide_border=true&exclude_repo=ProgrammingLectures,grbl,BodyPrinter&hide=jupyter%20notebook,html&size_weight=0.5&count_weight=0.5" />
   </a>
 </p>
