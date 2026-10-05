@@ -19,9 +19,9 @@ I mainly build
 
 <p align="left">
   <a href="https://github.com/nawta?tab=repositories">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nawta&show_icons=true&theme=buefy&hide_border=true" />
+    <img height="160em" src="https://github-stats-extended-backend-one.vercel.app/api?username=nawta&show_icons=true&theme=buefy&hide_border=true" />
   </a>
   <a href="https://github.com/nawta?tab=repositories">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawta&layout=compact&theme=buefy&hide_border=true&exclude_repo=ProgrammingLectures,grbl,BodyPrinter" />
+    <img height="160em" src="https://github-stats-extended-backend-one.vercel.app/api/top-langs/?username=nawta&layout=compact&theme=buefy&hide_border=true&exclude_repo=ProgrammingLectures,grbl,BodyPrinter" />
   </a>
 </p>
